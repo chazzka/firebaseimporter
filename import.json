@@ -1,0 +1,657 @@
+{
+  "czech_first_league": {
+    "name": "Czech First League",
+    "clubs": {
+      "slavia_prague": {
+        "name": "SK Slavia Prague",
+        "players": {
+          "ondrej_kolar": {
+            "name": "Ondřej Kolář"
+          },
+          "jan_boril": {
+            "name": "Jan Bořil"
+          },
+          "taras_kacharaba": {
+            "name": "Taras Kačaraba"
+          },
+          "ondrej_kudela": {
+            "name": "Ondřej Kúdela"
+          },
+          "david_hovorka": {
+            "name": "David Hovorka"
+          },
+          "luka_masopust": {
+            "name": "Lukáš Masopust"
+          },
+          "tomas_holes": {
+            "name": "Tomáš Holeš"
+          },
+          "nikola_stanciu": {
+            "name": "Nicolae Stanciu"
+          },
+          "peter_olayinka": {
+            "name": "Peter Olayinka"
+          },
+          "jan_kuchta": {
+            "name": "Jan Kuchta"
+          },
+          "abdallah_sima": {
+            "name": "Abdallah Sima"
+          }
+        }
+      },
+      "sparta_prague": {
+        "name": "AC Sparta Prague",
+        "players": {
+          "florent_hancko": {
+            "name": "Florent Hancko"
+          },
+          "david_lischka": {
+            "name": "David Lischka"
+          },
+          "ondrej_celustka": {
+            "name": "Ondřej Čelůstka"
+          },
+          "casper_hoyer": {
+            "name": "Casper Höjer"
+          },
+          "luka_julish": {
+            "name": "Lukáš Juliš"
+          },
+          "adam_hlozek": {
+            "name": "Adam Hložek"
+          },
+          "borek_dockal": {
+            "name": "Bořek Dočkal"
+          },
+          "david_moberg_karlsson": {
+            "name": "David Moberg Karlsson"
+          },
+          "filip_panak": {
+            "name": "Filip Panák"
+          },
+          "ladislav_krejci": {
+            "name": "Ladislav Krejčí"
+          },
+          "jakub_pesek": {
+            "name": "Jakub Pešek"
+          }
+        }
+      },
+      "victoria_plzen": {
+        "name": "FC Viktoria Plzeň",
+        "players": {
+          "ales_hruby": {
+            "name": "Aleš Hruška"
+          },
+          "milan_hejda": {
+            "name": "Milan Havel"
+          },
+          "pavel_bucha": {
+            "name": "Pavel Bucha"
+          },
+          "jakub_brabec": {
+            "name": "Jakub Brabec"
+          },
+          "jan_sykora": {
+            "name": "Jan Sýkora"
+          },
+          "joel_kayamba": {
+            "name": "Joel Kayamba"
+          },
+          "ondrej_mihalik": {
+            "name": "Ondřej Mihálik"
+          },
+          "tomas_chory": {
+            "name": "Tomáš Chorý"
+          },
+          "luas_kerbr": {
+            "name": "Lukáš Kerbr"
+          },
+          "adam_vlkanova": {
+            "name": "Adam Vlkanova"
+          },
+          "jhon_mosquera": {
+            "name": "Jhon Mosquera"
+          }
+        }
+      },
+      "banik_ostrava": {
+        "name": "FC Baník Ostrava",
+        "players": {
+          "jan_lasco": {
+            "name": "Jan Lašco"
+          },
+          "pavel_safranko": {
+            "name": "Pavel Šafranko"
+          },
+          "david_lischka": {
+            "name": "David Lischka"
+          },
+          "marek_hascak": {
+            "name": "Marek Haščák"
+          },
+          "michal_frydrych": {
+            "name": "Michal Frydrych"
+          },
+          "martin_fillo": {
+            "name": "Martin Fillo"
+          },
+          "tomas_zezula": {
+            "name": "Tomáš Zezula"
+          },
+          "ludek_drobnak": {
+            "name": "Luděk Drobnák"
+          },
+          "frantisek_lubos": {
+            "name": "František Luboš"
+          },
+          "radek_prvok": {
+            "name": "Radek Prvok"
+          },
+          "peter_frydrich": {
+            "name": "Peter Frydrich"
+          }
+        }
+      },
+      "sigma_olomouc": {
+        "name": "SK Sigma Olomouc",
+        "players": {
+          "michal_olcek": {
+            "name": "Michal Olček"
+          },
+          "petr_vydro": {
+            "name": "Petr Vydro"
+          },
+          "ondrej_cerny": {
+            "name": "Ondřej Černý"
+          },
+          "jan_kostroun": {
+            "name": "Jan Kostroun"
+          },
+          "tomas_votava": {
+            "name": "Tomáš Votava"
+          },
+          "jakub_vondra": {
+            "name": "Jakub Vondra"
+          },
+          "martin_rezek": {
+            "name": "Martin Rezek"
+          },
+          "filip_ruzicka": {
+            "name": "Filip Růžička"
+          },
+          "roman_zverina": {
+            "name": "Roman Zvěřina"
+          },
+          "adam_krystufek": {
+            "name": "Adam Křystůfek"
+          },
+          "daniel_horak": {
+            "name": "Daniel Horák"
+          }
+        }
+      },
+      "slovan_liberec": {
+        "name": "FC Slovan Liberec",
+        "players": {
+          "tomas_maly": {
+            "name": "Tomáš Malý"
+          },
+          "vaclav_novak": {
+            "name": "Václav Novák"
+          },
+          "petr_kovar": {
+            "name": "Petr Kovář"
+          },
+          "lukas_novotny": {
+            "name": "Lukáš Novotný"
+          },
+          "martin_svoboda": {
+            "name": "Martin Svoboda"
+          },
+          "jan_dvorak": {
+            "name": "Jan Dvořák"
+          },
+          "david_kral": {
+            "name": "David Král"
+          },
+          "roman_cerny": {
+            "name": "Roman Černý"
+          },
+          "karel_vesely": {
+            "name": "Karel Veselý"
+          },
+          "jakub_zeman": {
+            "name": "Jakub Zeman"
+          },
+          "filip_hruby": {
+            "name": "Filip Hrubý"
+          }
+        }
+      },
+      "mlada_boleslav": {
+        "name": "FK Mladá Boleslav",
+        "players": {
+          "ales_kucera": {
+            "name": "Aleš Kučera"
+          },
+          "pavel_hruska": {
+            "name": "Pavel Hruška"
+          },
+          "vladimir_holy": {
+            "name": "Vladimír Holý"
+          },
+          "jiri_polak": {
+            "name": "Jiří Polák"
+          },
+          "milan_stepanek": {
+            "name": "Milan Štěpánek"
+          },
+          "ladislav_benes": {
+            "name": "Ladislav Beneš"
+          },
+          "frantisek_kratochvil": {
+            "name": "František Kratochvíl"
+          },
+          "zdenek_marek": {
+            "name": "Zdeněk Marek"
+          },
+          "jan_vesely": {
+            "name": "Jan Veselý"
+          },
+          "josef_novotny": {
+            "name": "Josef Novotný"
+          },
+          "karel_nemec": {
+            "name": "Karel Němec"
+          }
+        }
+      },
+      "teplice": {
+        "name": "FK Teplice",
+        "players": {
+          "radek_blazek": {
+            "name": "Radek Blažek"
+          },
+          "vit_havelka": {
+            "name": "Vít Havelka"
+          },
+          "marek_horak": {
+            "name": "Marek Horák"
+          },
+          "daniel_vlk": {
+            "name": "Daniel Vlk"
+          },
+          "roman_blazej": {
+            "name": "Roman Blažej"
+          },
+          "miroslav_fiala": {
+            "name": "Miroslav Fiala"
+          },
+          "lukas_jelinek": {
+            "name": "Lukáš Jelínek"
+          },
+          "michal_panek": {
+            "name": "Michal Pánek"
+          },
+          "tomas_kovac": {
+            "name": "Tomáš Kováč"
+          },
+          "jakub_svec": {
+            "name": "Jakub Švec"
+          },
+          "petr_kolar": {
+            "name": "Petr Kolář"
+          }
+        }
+      },
+      "bohemians": {
+        "name": "Bohemians 1905",
+        "players": {
+          "pavel_hradek": {
+            "name": "Pavel Hrádek"
+          },
+          "michal_simek": {
+            "name": "Michal Šimek"
+          },
+          "filip_riha": {
+            "name": "Filip Říha"
+          },
+          "karel_holy": {
+            "name": "Karel Holý"
+          },
+          "vaclav_tichy": {
+            "name": "Václav Tichý"
+          },
+          "lubos_mares": {
+            "name": "Luboš Mareš"
+          },
+          "jakub_fousek": {
+            "name": "Jakub Fousek"
+          },
+          "tomas_brabec": {
+            "name": "Tomáš Brabec"
+          },
+          "ladislav_urban": {
+            "name": "Ladislav Urban"
+          },
+          "marek_kriz": {
+            "name": "Marek Kříž"
+          },
+          "ales_kral": {
+            "name": "Aleš Král"
+          }
+        }
+      },
+      "karvina": {
+        "name": "MFK Karviná",
+        "players": {
+          "stanislav_novak": {
+            "name": "Stanislav Novák"
+          },
+          "petr_bartos": {
+            "name": "Petr Bartoš"
+          },
+          "jiri_kovar": {
+            "name": "Jiří Kovář"
+          },
+          "ondrej_maly": {
+            "name": "Ondřej Malý"
+          },
+          "jan_kratky": {
+            "name": "Jan Krátký"
+          },
+          "frantisek_dlouhy": {
+            "name": "František Dlouhý"
+          },
+          "roman_pokorny": {
+            "name": "Roman Pokorný"
+          },
+          "ladislav_sykora": {
+            "name": "Ladislav Sýkora"
+          },
+          "tomas_hajek": {
+            "name": "Tomáš Hájek"
+          },
+          "lubos_kaspar": {
+            "name": "Luboš Kašpar"
+          },
+          "marek_klimek": {
+            "name": "Marek Klimek"
+          }
+        }
+      },
+      "zlin": {
+        "name": "FC Fastav Zlín",
+        "players": {
+          "martin_novy": {
+            "name": "Martin Nový"
+          },
+          "david_soucek": {
+            "name": "David Souček"
+          },
+          "jakub_mira": {
+            "name": "Jakub Míra"
+          },
+          "michal_kralik": {
+            "name": "Michal Králík"
+          },
+          "roman_hrabal": {
+            "name": "Roman Hrabal"
+          },
+          "filip_kovar": {
+            "name": "Filip Kovář"
+          },
+          "ondrej_vlcek": {
+            "name": "Ondřej Vlček"
+          },
+          "jan_marek": {
+            "name": "Jan Marek"
+          },
+          "lukas_cerny": {
+            "name": "Lukáš Černý"
+          },
+          "tomas_urban": {
+            "name": "Tomáš Urban"
+          },
+          "pavel_kadlec": {
+            "name": "Pavel Kadlec"
+          }
+        }
+      },
+      "pardubice": {
+        "name": "FK Pardubice",
+        "players": {
+          "josef_vesely": {
+            "name": "Josef Veselý"
+          },
+          "petr_janda": {
+            "name": "Petr Janda"
+          },
+          "lubos_beran": {
+            "name": "Luboš Beran"
+          },
+          "frantisek_kouba": {
+            "name": "František Kouba"
+          },
+          "lukas_koudelka": {
+            "name": "Lukáš Koudelka"
+          },
+          "martin_pospisil": {
+            "name": "Martin Pospíšil"
+          },
+          "vit_kopecky": {
+            "name": "Vít Kopecký"
+          },
+          "radek_maly": {
+            "name": "Radek Malý"
+          },
+          "filip_svoboda": {
+            "name": "Filip Svoboda"
+          },
+          "ondrej_nedved": {
+            "name": "Ondřej Nedvěd"
+          },
+          "jan_chladek": {
+            "name": "Jan Chládek"
+          }
+        }
+      },
+      "hradec_kralove": {
+        "name": "FC Hradec Králové",
+        "players": {
+          "tomas_smola": {
+            "name": "Tomáš Smola"
+          },
+          "ales_parizek": {
+            "name": "Aleš Pařízek"
+          },
+          "radek_kucera": {
+            "name": "Radek Kučera"
+          },
+          "vaclav_maly": {
+            "name": "Václav Malý"
+          },
+          "petr_zeleny": {
+            "name": "Petr Zelený"
+          },
+          "michal_krejci": {
+            "name": "Michal Krejčí"
+          },
+          "david_vavra": {
+            "name": "David Vávra"
+          },
+          "jiri_novotny": {
+            "name": "Jiří Novotný"
+          },
+          "jan_hajek": {
+            "name": "Jan Hájek"
+          },
+          "filip_kroupa": {
+            "name": "Filip Kroupa"
+          },
+          "lukas_fiala": {
+            "name": "Lukáš Fiala"
+          }
+        }
+      },
+      "ceske_budejovice": {
+        "name": "SK Dynamo České Budějovice",
+        "players": {
+          "ladislav_holub": {
+            "name": "Ladislav Holub"
+          },
+          "martin_holy": {
+            "name": "Martin Holý"
+          },
+          "ondrej_pokorny": {
+            "name": "Ondřej Pokorný"
+          },
+          "vaclav_cermak": {
+            "name": "Václav Čermák"
+          },
+          "petr_kratky": {
+            "name": "Petr Krátký"
+          },
+          "tomas_stepanek": {
+            "name": "Tomáš Štěpánek"
+          },
+          "jan_marek": {
+            "name": "Jan Marek"
+          },
+          "michal_fuks": {
+            "name": "Michal Fuks"
+          },
+          "roman_jaros": {
+            "name": "Roman Jaroš"
+          },
+          "karel_zikmund": {
+            "name": "Karel Zikmund"
+          },
+          "pavel_hrouda": {
+            "name": "Pavel Hrouda"
+          }
+        }
+      },
+      "pribram": {
+        "name": "1. FK Příbram",
+        "players": {
+          "vit_kolar": {
+            "name": "Vít Kolář"
+          },
+          "josef_kovar": {
+            "name": "Josef Kovář"
+          },
+          "radek_koutny": {
+            "name": "Radek Koutný"
+          },
+          "ales_benes": {
+            "name": "Aleš Beneš"
+          },
+          "petr_maly": {
+            "name": "Petr Malý"
+          },
+          "ladislav_fousek": {
+            "name": "Ladislav Fousek"
+          },
+          "miroslav_kral": {
+            "name": "Miroslav Král"
+          },
+          "vaclav_horak": {
+            "name": "Václav Horák"
+          },
+          "jiri_fiala": {
+            "name": "Jiří Fiala"
+          },
+          "tomas_cerny": {
+            "name": "Tomáš Černý"
+          },
+          "roman_novotny": {
+            "name": "Roman Novotný"
+          }
+        }
+      },
+      "opava": {
+        "name": "SFC Opava",
+        "players": {
+          "lukas_konecny": {
+            "name": "Lukáš Konečný"
+          },
+          "milan_marek": {
+            "name": "Milan Marek"
+          },
+          "petr_blazek": {
+            "name": "Petr Blažek"
+          },
+          "filip_holy": {
+            "name": "Filip Holý"
+          },
+          "michal_vesely": {
+            "name": "Michal Veselý"
+          },
+          "frantisek_malina": {
+            "name": "František Malina"
+          },
+          "radek_kovar": {
+            "name": "Radek Kovář"
+          },
+          "ales_sykora": {
+            "name": "Aleš Sýkora"
+          },
+          "martin_toman": {
+            "name": "Martin Toman"
+          },
+          "tomas_hruska": {
+            "name": "Tomáš Hruška"
+          },
+          "david_kral": {
+            "name": "David Král"
+          }
+        }
+      }
+    },
+    "matches": {
+      "match1": {
+        "date": "2024-10-01",
+        "clubAId": "slavia_prague",
+        "clubBId": "sparta_prague",
+        "result": "2-1",
+        "lineupClubA": ["ondrej_kolar", "jan_boril", "taras_kacharaba", "ondrej_kudela", "david_hovorka", "luka_masopust", "tomas_holes", "nikola_stanciu", "peter_olayinka", "jan_kuchta", "abdallah_sima"],
+        "lineupClubB": ["florent_hancko", "david_lischka", "ondrej_celustka", "casper_hoyer", "luka_julish", "adam_hlozek", "borek_dockal", "david_moberg_karlsson", "filip_panak", "ladislav_krejci", "jakub_pesek"]
+      },
+      "match2": {
+        "date": "2024-10-05",
+        "clubAId": "victoria_plzen",
+        "clubBId": "slavia_prague",
+        "result": "0-2",
+        "lineupClubA": ["ales_hruby", "milan_hejda", "pavel_bucha", "jakub_brabec", "jan_sykora", "joel_kayamba", "ondrej_mihalik", "tomas_chory", "luas_kerbr", "adam_vlkanova", "jhon_mosquera"],
+        "lineupClubB": ["ondrej_kolar", "jan_boril", "taras_kacharaba", "ondrej_kudela", "david_hovorka", "luka_masopust", "tomas_holes", "nikola_stanciu", "peter_olayinka", "jan_kuchta", "abdallah_sima"]
+      },
+      "match3": {
+        "date": "2024-10-10",
+        "clubAId": "sparta_prague",
+        "clubBId": "victoria_plzen",
+        "result": "1-1",
+        "lineupClubA": ["florent_hancko", "david_lischka", "ondrej_celustka", "casper_hoyer", "luka_julish", "adam_hlozek", "borek_dockal", "david_moberg_karlsson", "filip_panak", "ladislav_krejci", "jakub_pesek"],
+        "lineupClubB": ["ales_hruby", "milan_hejda", "pavel_bucha", "jakub_brabec", "jan_sykora", "joel_kayamba", "ondrej_mihalik", "tomas_chory", "luas_kerbr", "adam_vlkanova", "jhon_mosquera"]
+      },
+      "match4": {
+        "date": "2024-10-15",
+        "clubAId": "banik_ostrava",
+        "clubBId": "sigma_olomouc",
+        "result": "0-3",
+        "lineupClubA": ["jan_lasco", "pavel_safranko", "david_lischka", "marek_hascak", "michal_frydrych", "martin_fillo", "tomas_zezula", "ludek_drobnak", "frantisek_lubos", "radek_prvok", "peter_frydrich"],
+        "lineupClubB": ["michal_olcek", "petr_vydro", "ondrej_cerny", "jan_kostroun", "tomas_votava", "jakub_vondra", "martin_rezek", "filip_ruzicka", "roman_zverina", "adam_krystufek", "daniel_horak"]
+      },
+      "match5": {
+        "date": "2024-10-20",
+        "clubAId": "slavia_prague",
+        "clubBId": "banik_ostrava",
+        "result": "3-1",
+        "lineupClubA": ["ondrej_kolar", "jan_boril", "taras_kacharaba", "ondrej_kudela", "david_hovorka", "luka_masopust", "tomas_holes", "nikola_stanciu", "peter_olayinka", "jan_kuchta", "abdallah_sima"],
+        "lineupClubB": ["jan_lasco", "pavel_safranko", "david_lischka", "marek_hascak", "michal_frydrych", "martin_fillo", "tomas_zezula", "ludek_drobnak", "frantisek_lubos", "radek_prvok", "peter_frydrich"]
+      }
+    }
+  }
+}
